@@ -1,6 +1,6 @@
 ######################## CSCI567 - HW4 Code ###############################
-# Author: Nitin Kamra
-# Email: nkamra@usc.edu
+# Author: Shivankur Kapoor
+# Email: kapoors@usc.edu
 ###########################################################################
 
 ###################### Deep Learning HW utilities #########################
